@@ -1,0 +1,7 @@
+activityID,name,details,lat,long,rating
+101,Coffee Meetup,coffee,networking,13.7463,100.4918,4.8
+102,Hiking Trip,hiking,adventure,13.7000,100.5000,4.5
+103,Tech Talk,tech,networking,13.7563,100.5018,4.0
+104,Networking Event,networking,tech,13.7463,100.4918,5.0
+105,Yoga Retreat,yoga,relaxation,13.7000,100.5000,4.7
+106,Adventure Camp,adventure,camping,13.7563,100.5018,4.9
